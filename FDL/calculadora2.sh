@@ -1,4 +1,5 @@
 #!/bin/bash
+#Se esta mejorando. Por favor ser paciente.
 
 while true; do
 echo ''El Que Te Ayuda Hacer Tu Tarea''
