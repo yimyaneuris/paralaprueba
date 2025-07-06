@@ -33,6 +33,8 @@ else
 echo ''resultado: $resultado''
 fi
 ;;
+*) echo ''opcion invalida''
+;;
 esac
 
 echo ''¿Mio quieres hacer otra? s/n:''
