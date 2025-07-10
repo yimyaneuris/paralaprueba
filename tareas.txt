@@ -1,0 +1,10 @@
+1. crear un script que al pasarle un texto genere un archico con ese nombre y que solo 
+   el propietario tenga accesos
+
+2. Crear script que cree contraseñas aleatorias con diferentes niveles de complejidad, 
+   pidiendo al usuario la longitud y los tipos de caracteres deseados. 
+
+3. Un script que organice automáticamente archivos en diferentes carpetas según su tipo o fecha. 
+
+4. Un script que compruebe si ciertos servidores son accesibles a través de ping, 
+mostrando si están "vivos" o "muertos". 
