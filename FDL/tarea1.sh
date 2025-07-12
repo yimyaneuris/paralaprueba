@@ -5,7 +5,8 @@
 read -p "Escribir el nombre del archivo:" archivo
 
 if [ -e "$archivo" ]; then
-read -p "Ya existe. introduce otro nombre:" archivo
+echo "Ya existe"
+exit
 fi
 
 touch "$archivo"
